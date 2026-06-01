@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d06b67a-42f1-4ad9-9b74-0f10f3a9c7a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ex001/ex001.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,61 +25,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000065574" />
-      <entry key="MS500" value="1.005804292604641" />
-      <entry key="S2" value="1.3240980627674723" />
-      <entry key="S5" value="1.8946737625527938" />
-      <entry key="S10" value="2.318118892900106" />
-      <entry key="S30" value="2.7349847460436743" />
-      <entry key="S60" value="2.893558933321523" />
-      <entry key="M2" value="3.237838939417839" />
-      <entry key="M5" value="4.178768829934723" />
-      <entry key="M10" value="4.888759701312376" />
-      <entry key="M15" value="5.205282312495282" />
-      <entry key="M30" value="5.572904398749336" />
-      <entry key="H1" value="5.778443468164088" />
-      <entry key="H2" value="5.887142872774997" />
-      <entry key="H4" value="5.943041814873418" />
-      <entry key="D1" value="5.990432554413246" />
-      <entry key="W1" value="5.998631388387709" />
+      <entry key="MS100" value="2.791130381311797E-16" />
+      <entry key="MS500" value="7.74740081241399E-4" />
+      <entry key="S2" value="0.16691963040942417" />
+      <entry key="S5" value="0.5148558177761197" />
+      <entry key="S10" value="0.9278783821474182" />
+      <entry key="S30" value="2.2586093960719795" />
+      <entry key="S60" value="4.466525133309702" />
+      <entry key="M2" value="10.639300275676074" />
+      <entry key="M5" value="26.474304134360548" />
+      <entry key="M10" value="39.180200104506234" />
+      <entry key="M15" value="45.41947597743782" />
+      <entry key="M30" value="53.542373035703726" />
+      <entry key="H1" value="58.710523125485736" />
+      <entry key="H2" value="61.6898316891997" />
+      <entry key="H4" value="63.29977688275163" />
+      <entry key="D1" value="64.71000482252637" />
+      <entry key="W1" value="64.95840499444124" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="3.990677799607286E-19" />
-      <entry key="MS500" value="2.0903034290684988E-4" />
-      <entry key="S2" value="0.12024093183309682" />
-      <entry key="S5" value="0.4285691772362246" />
-      <entry key="S10" value="0.6546519512200545" />
-      <entry key="S30" value="0.8683007088191577" />
-      <entry key="S60" value="0.9318265443842848" />
-      <entry key="M2" value="0.9653116307101479" />
-      <entry key="M5" value="0.9859775251955495" />
-      <entry key="M10" value="0.9929640100202775" />
-      <entry key="M15" value="0.9953038221689325" />
-      <entry key="M30" value="0.9976491478315072" />
-      <entry key="H1" value="0.9988238822893188" />
-      <entry key="H2" value="0.9994117681362967" />
-      <entry key="H4" value="0.9997058408033319" />
-      <entry key="D1" value="0.9999509674571392" />
-      <entry key="W1" value="0.9999929952038202" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.000036926748385" />
+      <entry key="S5" value="1.0238619598237186" />
+      <entry key="S10" value="1.2156316953513855" />
+      <entry key="S30" value="1.9592883009319122" />
+      <entry key="S60" value="2.553173983318773" />
+      <entry key="M2" value="3.42108163683054" />
+      <entry key="M5" value="4.833217205739348" />
+      <entry key="M10" value="5.790389393573702" />
+      <entry key="M15" value="6.273958673688472" />
+      <entry key="M30" value="6.948769704743395" />
+      <entry key="H1" value="7.409190537812849" />
+      <entry key="H2" value="7.685160726376015" />
+      <entry key="H4" value="7.837257485728481" />
+      <entry key="D1" value="7.972093634821103" />
+      <entry key="W1" value="7.99599361687445" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9395227492200459" />
-      <entry key="MS500" value="0.9933122712715989" />
-      <entry key="S2" value="1.360599481632448" />
-      <entry key="S5" value="2.1704279388490755" />
-      <entry key="S10" value="2.844092363180734" />
-      <entry key="S30" value="3.5423744130634187" />
-      <entry key="S60" value="3.7919189260544086" />
-      <entry key="M2" value="4.18469219018818" />
-      <entry key="M5" value="5.1558603771930915" />
-      <entry key="M10" value="5.876730496294464" />
-      <entry key="M15" value="6.197094309837068" />
-      <entry key="M30" value="6.568713022418489" />
-      <entry key="H1" value="6.776320641665528" />
-      <entry key="H2" value="6.886074292876892" />
-      <entry key="H4" value="6.942505683304855" />
-      <entry key="D1" value="6.990342939024974" />
-      <entry key="W1" value="6.998618579761526" />
+      <entry key="MS100" value="3.413408819753748E-11" />
+      <entry key="MS500" value="0.008694898046004382" />
+      <entry key="S2" value="0.4581675598822035" />
+      <entry key="S5" value="1.140517227547929" />
+      <entry key="S10" value="1.893261499410041" />
+      <entry key="S30" value="4.0860205718223055" />
+      <entry key="S60" value="6.927320931555379" />
+      <entry key="M2" value="13.987358826266" />
+      <entry key="M5" value="31.255267488223357" />
+      <entry key="M10" value="44.93572342966181" />
+      <entry key="M15" value="51.66730141990138" />
+      <entry key="M30" value="60.47614339211602" />
+      <entry key="H1" value="66.11157979025285" />
+      <entry key="H2" value="69.37073914916793" />
+      <entry key="H4" value="71.13485687084103" />
+      <entry key="D1" value="72.68172806695236" />
+      <entry key="W1" value="72.95434550967582" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -86,6 +87,9 @@
   "fromUser": false
 }]]></component>
   <component name="ProjectId" id="3EXIxkvl36doGUPdeWOw43sXx0z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -95,6 +99,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.ex000.executor": "Run",
+    "Python.ex001.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -102,6 +107,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -112,7 +118,7 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.ex001">
     <configuration name="ex000" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPOO" />
       <option name="ENV_FILES" value="" />
@@ -137,8 +143,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPOO" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex001" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex001/ex001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex001" />
         <item itemvalue="Python.ex000" />
       </list>
     </recent_temporary>
