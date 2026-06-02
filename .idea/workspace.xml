@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d06b67a-42f1-4ad9-9b74-0f10f3a9c7a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex001/ex001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex002/ex002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex002/testeclasse.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex000/ex000.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex000/ex000.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex001/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex001/ex001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,67 +28,67 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="2.791130381311797E-16" />
-      <entry key="MS500" value="7.74740081241399E-4" />
-      <entry key="S2" value="0.16691963040942417" />
-      <entry key="S5" value="0.5148558177761197" />
-      <entry key="S10" value="0.9278783821474182" />
-      <entry key="S30" value="2.2586093960719795" />
-      <entry key="S60" value="4.466525133309702" />
-      <entry key="M2" value="10.639300275676074" />
-      <entry key="M5" value="26.474304134360548" />
-      <entry key="M10" value="39.180200104506234" />
-      <entry key="M15" value="45.41947597743782" />
-      <entry key="M30" value="53.542373035703726" />
-      <entry key="H1" value="58.710523125485736" />
-      <entry key="H2" value="61.6898316891997" />
-      <entry key="H4" value="63.29977688275163" />
-      <entry key="D1" value="64.71000482252637" />
-      <entry key="W1" value="64.95840499444124" />
+      <entry key="MS100" value="1.00000012513598" />
+      <entry key="MS500" value="1.0416367132841258" />
+      <entry key="S2" value="1.4517197820969605" />
+      <entry key="S5" value="1.7276921064642274" />
+      <entry key="S10" value="1.8532584281263018" />
+      <entry key="S30" value="2.2333889241680818" />
+      <entry key="S60" value="4.751441570519344" />
+      <entry key="M2" value="11.777692270979507" />
+      <entry key="M5" value="27.9272532950359" />
+      <entry key="M10" value="47.711896492115244" />
+      <entry key="M15" value="61.78894812467242" />
+      <entry key="M30" value="84.96192260506368" />
+      <entry key="H1" value="102.37225289756118" />
+      <entry key="H2" value="113.2522393829707" />
+      <entry key="H4" value="119.36879600027723" />
+      <entry key="D1" value="124.85679151834495" />
+      <entry key="W1" value="125.83572228887307" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.000036926748385" />
-      <entry key="S5" value="1.0238619598237186" />
-      <entry key="S10" value="1.2156316953513855" />
-      <entry key="S30" value="1.9592883009319122" />
-      <entry key="S60" value="2.553173983318773" />
-      <entry key="M2" value="3.42108163683054" />
-      <entry key="M5" value="4.833217205739348" />
-      <entry key="M10" value="5.790389393573702" />
-      <entry key="M15" value="6.273958673688472" />
-      <entry key="M30" value="6.948769704743395" />
-      <entry key="H1" value="7.409190537812849" />
-      <entry key="H2" value="7.685160726376015" />
-      <entry key="H4" value="7.837257485728481" />
-      <entry key="D1" value="7.972093634821103" />
-      <entry key="W1" value="7.99599361687445" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="6.480194272805481E-222" />
+      <entry key="S2" value="5.0454163066772085E-56" />
+      <entry key="S5" value="7.606060252276296E-23" />
+      <entry key="S10" value="8.736053562046863E-12" />
+      <entry key="S30" value="2.4893108063224587E-4" />
+      <entry key="S60" value="0.02548248762125551" />
+      <entry key="M2" value="0.3124798601961646" />
+      <entry key="M5" value="1.9756409241176796" />
+      <entry key="M10" value="4.705863300174824" />
+      <entry key="M15" value="6.641467491746014" />
+      <entry key="M30" value="9.732171396853028" />
+      <entry key="H1" value="11.99218585225352" />
+      <entry key="H2" value="13.384406533428379" />
+      <entry key="H4" value="14.161509713840493" />
+      <entry key="D1" value="14.85572503369638" />
+      <entry key="W1" value="14.97927478595573" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="3.413408819753748E-11" />
-      <entry key="MS500" value="0.008694898046004382" />
-      <entry key="S2" value="0.4581675598822035" />
-      <entry key="S5" value="1.140517227547929" />
-      <entry key="S10" value="1.893261499410041" />
-      <entry key="S30" value="4.0860205718223055" />
-      <entry key="S60" value="6.927320931555379" />
-      <entry key="M2" value="13.987358826266" />
-      <entry key="M5" value="31.255267488223357" />
-      <entry key="M10" value="44.93572342966181" />
-      <entry key="M15" value="51.66730141990138" />
-      <entry key="M30" value="60.47614339211602" />
-      <entry key="H1" value="66.11157979025285" />
-      <entry key="H2" value="69.37073914916793" />
-      <entry key="H4" value="71.13485687084103" />
-      <entry key="D1" value="72.68172806695236" />
-      <entry key="W1" value="72.95434550967582" />
+      <entry key="MS100" value="0.9659364481341352" />
+      <entry key="MS500" value="1.0343271176486888" />
+      <entry key="S2" value="1.4488938639028077" />
+      <entry key="S5" value="1.7262933851666313" />
+      <entry key="S10" value="1.8524978940262247" />
+      <entry key="S30" value="2.2327641459086953" />
+      <entry key="S60" value="4.772469743159276" />
+      <entry key="M2" value="12.07771174058236" />
+      <entry key="M5" value="29.87935581996909" />
+      <entry key="M10" value="52.39024882161559" />
+      <entry key="M15" value="68.40424801635321" />
+      <entry key="M30" value="94.67453698241896" />
+      <entry key="H1" value="114.35223101168326" />
+      <entry key="H2" value="126.6297837664038" />
+      <entry key="H4" value="133.52666157890252" />
+      <entry key="D1" value="139.71187734102747" />
+      <entry key="W1" value="140.81490494728175" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3EXIxkvl36doGUPdeWOw43sXx0z" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -100,6 +103,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.ex000.executor": "Run",
     "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.testeclasse.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -118,7 +123,12 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.ex001">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Aulas\PythonPOO\exercicios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ex002">
     <configuration name="ex000" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPOO" />
       <option name="ENV_FILES" value="" />
@@ -167,8 +177,58 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPOO" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios/ex002" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex002/ex002.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testeclasse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPOO" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios/ex002" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex002/testeclasse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex002" />
+        <item itemvalue="Python.testeclasse" />
         <item itemvalue="Python.ex001" />
         <item itemvalue="Python.ex000" />
       </list>
