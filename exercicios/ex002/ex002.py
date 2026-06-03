@@ -29,12 +29,14 @@ g1.aniversario()
 print(g1)
 print(g1.__dict__) # Attribute
 print(g1.__getstate__()) # Method
-
-g2 = Gafanhoto("Mauro", 53)
-g2.aniversario()
-print(g2)
-
-g3 = Gafanhoto()
-print(g3)
-
+print(g1.__class__)
 print(g1.__doc__) # Dunder Attribute
+
+#g2 = Gafanhoto("Mauro", 53)
+#g2.aniversario()
+#print(g2)
+
+#g3 = Gafanhoto()
+#print(g3)
+
+
