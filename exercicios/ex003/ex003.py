@@ -1,3 +1,8 @@
+from rich import print
+from rich import inspect
+from pip._internal.commands import inspect
+
+
 class ContaBancaria:
     """
     Cria uma conta bancária e permite fazer saques e depósitos
@@ -28,3 +33,5 @@ c1.sacar(10000)
 print(c1)
 
 print(c1.__doc__)
+
+

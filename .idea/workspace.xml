@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d06b67a-42f1-4ad9-9b74-0f10f3a9c7a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicios/ex003/ex003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rich/rich001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rich/rich002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rich/rich003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rich/rich004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rich/rich005.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex003/ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex003/ex003.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,61 +37,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.3923178317053815" />
-      <entry key="MS500" value="2.0874112265080385" />
-      <entry key="S2" value="3.6343449945218254" />
-      <entry key="S5" value="4.991356043284413" />
-      <entry key="S10" value="6.250358870416376" />
-      <entry key="S30" value="8.435369819376486" />
-      <entry key="S60" value="9.50367570846106" />
-      <entry key="M2" value="10.4330675904726" />
-      <entry key="M5" value="16.827897131565734" />
-      <entry key="M10" value="33.84663180943768" />
-      <entry key="M15" value="51.955949877813474" />
-      <entry key="M30" value="97.83013704532435" />
-      <entry key="H1" value="150.04491057116223" />
-      <entry key="H2" value="192.15928637691582" />
-      <entry key="H4" value="219.39523422083153" />
-      <entry key="D1" value="246.1442784852629" />
-      <entry key="W1" value="251.1524355011132" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.5599041769265395E-204" />
+      <entry key="S2" value="2.0199859995957105E-51" />
+      <entry key="S5" value="8.828016312427332E-21" />
+      <entry key="S10" value="1.7616185290381833E-10" />
+      <entry key="S30" value="0.0015589359768968104" />
+      <entry key="S60" value="0.08835177365980966" />
+      <entry key="M2" value="0.7719344903443485" />
+      <entry key="M5" value="6.497662727316973" />
+      <entry key="M10" value="21.752327921686472" />
+      <entry key="M15" value="36.28519909683489" />
+      <entry key="M30" value="74.85271077800422" />
+      <entry key="H1" value="138.8792719004222" />
+      <entry key="H2" value="213.56396881621643" />
+      <entry key="H4" value="274.38846920802564" />
+      <entry key="D1" value="344.308472850248" />
+      <entry key="W1" value="358.5528521058835" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="2.2087795632355248E-226" />
-      <entry key="S5" value="5.465890790168536E-91" />
-      <entry key="S10" value="7.39317023220432E-46" />
-      <entry key="S30" value="9.161148345373137E-16" />
-      <entry key="S60" value="3.55867263318082E-8" />
-      <entry key="M2" value="3.257715664798656E-4" />
-      <entry key="M5" value="0.15426883680071884" />
-      <entry key="M10" value="1.7892016086644729" />
-      <entry key="M15" value="4.501167896406131" />
-      <entry key="M30" value="12.402913628995721" />
-      <entry key="H1" value="21.56678049810486" />
-      <entry key="H2" value="28.847828962941776" />
-      <entry key="H4" value="33.49554350265531" />
-      <entry key="D1" value="38.01596612712094" />
-      <entry key="W1" value="38.857689344128325" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000000062097" />
+      <entry key="S30" value="1.000186993532905" />
+      <entry key="S60" value="1.015984265076453" />
+      <entry key="M2" value="1.2466877861072634" />
+      <entry key="M5" value="4.03112554078022" />
+      <entry key="M10" value="10.145053511912309" />
+      <entry key="M15" value="14.857681208764985" />
+      <entry key="M30" value="24.248215695092377" />
+      <entry key="H1" value="36.53726678531445" />
+      <entry key="H2" value="49.77356836224552" />
+      <entry key="H4" value="60.269782726208675" />
+      <entry key="D1" value="72.17569476143436" />
+      <entry key="W1" value="74.58629520362894" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.3542447687441868" />
-      <entry key="MS500" value="2.0751964709986197" />
-      <entry key="S2" value="3.6279293634627727" />
-      <entry key="S5" value="4.987722264195706" />
-      <entry key="S10" value="6.248116900402184" />
-      <entry key="S30" value="8.434405524707833" />
-      <entry key="S60" value="9.503143561053172" />
-      <entry key="M2" value="10.43309968411119" />
-      <entry key="M5" value="16.980823677771905" />
-      <entry key="M10" value="35.628749204328855" />
-      <entry key="M15" value="56.44506237122712" />
-      <entry key="M30" value="110.21565515221297" />
-      <entry key="H1" value="171.59597571702733" />
-      <entry key="H2" value="220.99635811310753" />
-      <entry key="H4" value="252.8844535178244" />
-      <entry key="D1" value="284.15903515332" />
-      <entry key="W1" value="290.00994790041193" />
+      <entry key="MS100" value="6.266728015443866E-4" />
+      <entry key="MS500" value="0.22877479203198212" />
+      <entry key="S2" value="0.6915953145054824" />
+      <entry key="S5" value="0.8628609541792771" />
+      <entry key="S10" value="0.9289030921015242" />
+      <entry key="S30" value="0.9774523083697618" />
+      <entry key="S60" value="1.0917291394260453" />
+      <entry key="M2" value="2.009327708656617" />
+      <entry key="M5" value="10.508612347349528" />
+      <entry key="M10" value="31.868283409891475" />
+      <entry key="M15" value="51.11357935408183" />
+      <entry key="M30" value="99.07586167482869" />
+      <entry key="H1" value="175.39624011676779" />
+      <entry key="H2" value="263.3228160352812" />
+      <entry key="H4" value="334.64899834862763" />
+      <entry key="D1" value="416.48225813346806" />
+      <entry key="W1" value="433.13886376947437" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -109,9 +114,15 @@
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.ex003.executor": "Run",
+    "Python.rich001.executor": "Run",
+    "Python.rich002.executor": "Run",
+    "Python.rich003.executor": "Run",
+    "Python.rich004.executor": "Run",
+    "Python.rich005.executor": "Run",
     "Python.testeclasse.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -134,8 +145,8 @@
       <recent name="D:\Aulas\PythonPOO\exercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex003">
-    <configuration name="ex000" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.rich005">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonPOO" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,64 +155,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex000" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.14 (PythonPOO)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex000/ex000.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPOO" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex001" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex001/ex001.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPOO" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios/ex002" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex002/ex002.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
@@ -231,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testeclasse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="rich002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPOO" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,16 +204,92 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios/ex002" />
+      <option name="SDK_NAME" value="Python 3.14 (PythonPOO)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rich" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex002/testeclasse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rich/rich002.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rich003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPOO" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14 (PythonPOO)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rich" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rich/rich003.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rich004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPOO" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14 (PythonPOO)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rich" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rich/rich004.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rich005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPOO" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14 (PythonPOO)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rich" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rich/rich005.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
@@ -257,11 +297,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rich005" />
         <item itemvalue="Python.ex003" />
-        <item itemvalue="Python.ex002" />
-        <item itemvalue="Python.testeclasse" />
-        <item itemvalue="Python.ex001" />
-        <item itemvalue="Python.ex000" />
+        <item itemvalue="Python.rich004" />
+        <item itemvalue="Python.rich003" />
+        <item itemvalue="Python.rich002" />
       </list>
     </recent_temporary>
   </component>
