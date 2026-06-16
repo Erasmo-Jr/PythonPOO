@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d06b67a-42f1-4ad9-9b74-0f10f3a9c7a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/desafios/desafio016/desafio016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio017/desafio017.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="16" />
+    <option name="cachedIndexableFilesCount" value="17" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,61 +32,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0419463167525506E-10" />
-      <entry key="MS500" value="0.01008251945665452" />
-      <entry key="S2" value="0.31687813050860614" />
-      <entry key="S5" value="0.6314760839703468" />
-      <entry key="S10" value="0.7946780608279734" />
-      <entry key="S30" value="0.9920726690210138" />
-      <entry key="S60" value="1.6007524441976386" />
-      <entry key="M2" value="3.730722186557883" />
-      <entry key="M5" value="10.631329213473546" />
-      <entry key="M10" value="21.61245222169284" />
-      <entry key="M15" value="33.81205878072732" />
-      <entry key="M30" value="72.11710494639013" />
-      <entry key="H1" value="141.23011375753978" />
-      <entry key="H2" value="229.90152580475328" />
-      <entry key="H4" value="308.0024665458627" />
-      <entry key="D1" value="403.41739014121737" />
-      <entry key="W1" value="423.5241764525294" />
+      <entry key="MS100" value="1.0000015600244472" />
+      <entry key="MS500" value="1.0713300258080922" />
+      <entry key="S2" value="1.780775206983986" />
+      <entry key="S5" value="2.892367782482215" />
+      <entry key="S10" value="4.205349092859094" />
+      <entry key="S30" value="7.2135653604251555" />
+      <entry key="S60" value="9.935864446323128" />
+      <entry key="M2" value="14.680593365402197" />
+      <entry key="M5" value="29.678974697218795" />
+      <entry key="M10" value="49.38404748922926" />
+      <entry key="M15" value="65.53554152016221" />
+      <entry key="M30" value="108.350116718636" />
+      <entry key="H1" value="181.26889021305098" />
+      <entry key="H2" value="275.9291417674326" />
+      <entry key="H4" value="361.176610644371" />
+      <entry key="D1" value="467.42586175944626" />
+      <entry key="W1" value="490.07600152825086" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0001023643511007" />
-      <entry key="S2" value="1.103486365893673" />
-      <entry key="S5" value="1.495640751132999" />
-      <entry key="S10" value="1.9425438381321307" />
-      <entry key="S30" value="2.6142841569099478" />
-      <entry key="S60" value="3.3460419776898713" />
-      <entry key="M2" value="4.752690566359526" />
-      <entry key="M5" value="7.558951325490668" />
-      <entry key="M10" value="11.424260783232507" />
-      <entry key="M15" value="15.799917346747653" />
-      <entry key="M30" value="28.000972824403366" />
-      <entry key="H1" value="45.28162370548429" />
-      <entry key="H2" value="64.12750717606914" />
-      <entry key="H4" value="79.53814466301763" />
-      <entry key="D1" value="97.61671081913626" />
-      <entry key="W1" value="101.35568191435584" />
+      <entry key="MS100" value="4.551386654466513E-107" />
+      <entry key="MS500" value="5.390496226385629E-22" />
+      <entry key="S2" value="4.818448111899565E-6" />
+      <entry key="S5" value="0.007467294442575487" />
+      <entry key="S10" value="0.08649660486359578" />
+      <entry key="S30" value="0.4895115338727507" />
+      <entry key="S60" value="0.9581604150563708" />
+      <entry key="M2" value="1.817997712554431" />
+      <entry key="M5" value="4.831183724614758" />
+      <entry key="M10" value="9.84312133374719" />
+      <entry key="M15" value="14.672514129496951" />
+      <entry key="M30" value="27.769187519079168" />
+      <entry key="H1" value="46.69507210623056" />
+      <entry key="H2" value="67.70174460680755" />
+      <entry key="H4" value="85.15266283507081" />
+      <entry key="D1" value="105.92001184710742" />
+      <entry key="W1" value="110.25222309450716" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.1430130943379352E-5" />
-      <entry key="MS500" value="0.12137107762612148" />
-      <entry key="S2" value="0.8693269563756082" />
-      <entry key="S5" value="1.6800892084502086" />
-      <entry key="S10" value="2.403427631580041" />
-      <entry key="S30" value="3.4492135240734836" />
-      <entry key="S60" value="4.850878142116765" />
-      <entry key="M2" value="8.418377027730571" />
-      <entry key="M5" value="18.14877036327042" />
-      <entry key="M10" value="33.00482770613812" />
-      <entry key="M15" value="49.58216204327811" />
-      <entry key="M30" value="100.09073932413187" />
-      <entry key="H1" value="186.4883337041548" />
-      <entry key="H2" value="294.011457567493" />
-      <entry key="H4" value="387.52927442097655" />
-      <entry key="D1" value="501.0316939843146" />
-      <entry key="W1" value="524.879498934401" />
+      <entry key="MS100" value="0.9460591124040534" />
+      <entry key="MS500" value="1.0594161015006025" />
+      <entry key="S2" value="1.7592660932702602" />
+      <entry key="S5" value="2.8090779673024544" />
+      <entry key="S10" value="4.162828397944355" />
+      <entry key="S30" value="7.5857526026529625" />
+      <entry key="S60" value="10.801636049248529" />
+      <entry key="M2" value="16.426227439901684" />
+      <entry key="M5" value="34.448207645014605" />
+      <entry key="M10" value="59.17384526155061" />
+      <entry key="M15" value="80.1604282457829" />
+      <entry key="M30" value="136.08066118498675" />
+      <entry key="H1" value="227.93376883787028" />
+      <entry key="H2" value="343.60929651212047" />
+      <entry key="H4" value="446.31563223466935" />
+      <entry key="D1" value="573.3430144012442" />
+      <entry key="W1" value="600.3277983810925" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -106,6 +106,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.desafio016.executor": "Run",
+    "Python.desafio017.executor": "Run",
     "Python.ex000.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
@@ -142,7 +143,7 @@
       <recent name="D:\Aulas\PythonPOO\exercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio016">
+  <component name="RunManager" selected="Python.desafio017">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonPOO" />
       <option name="ENV_FILES" value="" />
@@ -193,6 +194,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="desafio017" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPOO" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14 (PythonPOO)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios/desafio017" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/desafio017/desafio017.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ex003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPOO" />
       <option name="ENV_FILES" value="" />
@@ -212,31 +238,6 @@
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="rich003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPOO" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.14 (PythonPOO)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rich" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rich/rich003.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
@@ -294,11 +295,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.desafio017" />
         <item itemvalue="Python.desafio016" />
         <item itemvalue="Python.rich005" />
         <item itemvalue="Python.ex003" />
         <item itemvalue="Python.rich004" />
-        <item itemvalue="Python.rich003" />
       </list>
     </recent_temporary>
   </component>
