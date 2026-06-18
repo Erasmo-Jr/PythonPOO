@@ -8,4 +8,4 @@ Python
 
 ## Objetivo
 
-Desenvolver conhecimento em Programação Orientada a Objetos, aplicando conceitos fundamentais para construção de sistemas mais organizados e escaláveis.
+Aplicar os princípios da Programação Orientada a Objetos na construção de soluções em Python, desenvolvendo código mais organizado, reutilizável e escalável.
