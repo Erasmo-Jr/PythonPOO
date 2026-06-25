@@ -2,8 +2,8 @@
 class Gafanhoto:
     def __init__(self): # Método Construtor
         # Atributos de Instância
-        self.nome = ""
-        self.idade = 0
+        self.nome:str = ""
+        self.idade:int = 0
 
     # Métodos de Intância
     def aniversario(self):
