@@ -19,3 +19,5 @@ f1.fazer_aniversario()
 f1.bater_ponto()
 #inspect(f1, methods=True)
 
+print(f"[blue]Teste[/]")
+
