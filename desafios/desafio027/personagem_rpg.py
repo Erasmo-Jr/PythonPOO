@@ -36,7 +36,7 @@ class Guerreiro(Personagem):
         self.golpes = ["Soco", "Pulo Giratório", "Cabeçada", "Chute Voador"]
 
     def curar(self):
-        pontos = random.randint(10, 30)
+        pontos = random.randint(0, 100)
         self.vida += pontos
         console.print(
             f"[bold cyan]{self.nome}[/bold cyan] grita de fúria e recupera "
@@ -50,7 +50,7 @@ class Mago(Personagem):
         self.golpes = ["Bola de Fogo", "Raio Arcano", "Explosão Mística"]
 
     def curar(self):
-        pontos = random.randint(1, 10)
+        pontos = random.randint(0, 100)
         self.vida += pontos
         console.print(
             f"[bold cyan]{self.nome}[/bold cyan] fez uma magia de cura e recuperou "

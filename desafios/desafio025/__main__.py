@@ -4,7 +4,7 @@ from transportes import Moto, Caminhao, Drone
 
 
 def main():
-    dist = 100
+    dist = 50
 
     viagem = [Moto(dist), Caminhao(dist), Drone(dist)]
 
