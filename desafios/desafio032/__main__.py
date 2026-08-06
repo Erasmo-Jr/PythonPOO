@@ -1,7 +1,15 @@
 from desafios.desafio032.classe032 import *
 
 def main():
-    pass
+    cc = ContaBancaria(111, "Erasmo", 10_000)
+
+    print("Vou tentar sacar...")
+    cc.sacar(500)
+
+    print("Tentando mudar o nome...")
+    cc.nome = "Maricota"
+
+    print(cc)
 
 if __name__ == '__main__':
     main()
