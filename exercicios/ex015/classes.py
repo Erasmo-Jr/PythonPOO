@@ -13,3 +13,24 @@ class Carteira:
     @saldo.setter
     def saldo(self, valor):
         raise PermissionError("Você não tem autorização para alterar o saldo desse jeito")
+
+    def __eq__(self, outro):
+        if self.__saldo == outro.__saldo:
+            return True
+        else:
+            return False
+
+    def __iadd__(self, valor:int|float):
+        self.__saldo = self.__saldo + valor
+        return self
+
+    def __sub__(self, valor:int|float):
+        self.__saldo = self.__saldo - valor
+        return self
+
+    def __le__(self, outro):
+        if self.__saldo <= outro.__saldo:
+            return True
+        else:
+            return False
+
