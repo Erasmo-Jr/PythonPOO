@@ -45,7 +45,7 @@ class Retangulo:
 
     @property
     def medidas(self):
-        return f"Base = {self.base} \nAltura = {self.altura} \nÁrea = {self.area}"
+        return f"Base = {self.base} \nAltura = {self.altura} \nÁrea = {self.area} "
 
     @medidas.setter
     def medidas(self, valores:tuple):
